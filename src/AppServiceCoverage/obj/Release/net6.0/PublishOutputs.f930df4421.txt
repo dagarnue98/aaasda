@@ -1,0 +1,10 @@
+C:\Users\Rocketerino\Desktop\Coverage\AppServiceCoverage\AppServiceCoverage\obj\Release\net6.0\PubTmp\Out\AppServiceCoverage.exe
+C:\Users\Rocketerino\Desktop\Coverage\AppServiceCoverage\AppServiceCoverage\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Rocketerino\Desktop\Coverage\AppServiceCoverage\AppServiceCoverage\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Rocketerino\Desktop\Coverage\AppServiceCoverage\AppServiceCoverage\obj\Release\net6.0\PubTmp\Out\AppServiceCoverage.dll
+C:\Users\Rocketerino\Desktop\Coverage\AppServiceCoverage\AppServiceCoverage\obj\Release\net6.0\PubTmp\Out\AppServiceCoverage.runtimeconfig.json
+C:\Users\Rocketerino\Desktop\Coverage\AppServiceCoverage\AppServiceCoverage\obj\Release\net6.0\PubTmp\Out\AppServiceCoverage.pdb
+C:\Users\Rocketerino\Desktop\Coverage\AppServiceCoverage\AppServiceCoverage\obj\Release\net6.0\PubTmp\Out\xunit.abstractions.dll
+C:\Users\Rocketerino\Desktop\Coverage\AppServiceCoverage\AppServiceCoverage\obj\Release\net6.0\PubTmp\Out\xunit.assert.dll
+C:\Users\Rocketerino\Desktop\Coverage\AppServiceCoverage\AppServiceCoverage\obj\Release\net6.0\PubTmp\Out\xunit.core.dll
+C:\Users\Rocketerino\Desktop\Coverage\AppServiceCoverage\AppServiceCoverage\obj\Release\net6.0\PubTmp\Out\AppServiceCoverage.deps.json
