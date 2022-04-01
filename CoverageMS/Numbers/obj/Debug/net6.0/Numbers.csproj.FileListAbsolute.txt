@@ -1,0 +1,12 @@
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\bin\Debug\net6.0\Numbers.deps.json
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\bin\Debug\net6.0\Numbers.dll
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\bin\Debug\net6.0\Numbers.pdb
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\obj\Debug\net6.0\Numbers.dll
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\obj\Debug\net6.0\Numbers.pdb
+C:\Users\Rocketerino\Desktop\CoverageMS\Numbers\obj\Debug\net6.0\ref\Numbers.dll
